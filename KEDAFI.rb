@@ -8,11 +8,10 @@
 # SYSTEM REQUIREMENTS: Windows XP+, Ms Excel 2003+, IE 7+, Ruby 1.8.7 and Watir 1.6.7
 # WARNING: NOT SUPPORTED ON RUBY 1.9.x . SET $PATH TO 1.8.7 INCASE YOU HAVE 1.9.x INSTALLED.
 #
-# IF YOU RECIEVED THIS AS A ZIPFILE,IT SHOULD CONTAIN THE FOLLOWING 4 FILES:
+# IF YOU RECIEVED THIS AS A ZIPFILE,IT SHOULD CONTAIN THE FOLLOWING 3 FILES:
 # 1. THIS SOURCE FILE - KEDAFI.rb
 # 2. THE EXCEL SPREADSHEET WHICH SERVES AS THE KEYWORD SOURCE/SERVER AND AS RESULTS LOG - ATDriverResults.xls
-# 3. RUBY 1.8.7 Installer
-# 4. README.txt - A README FILE TO GET YOU STARTED on how to install WATIR and how to input keywords
+# 3. README.txt - A README FILE TO GET YOU STARTED on how to install WATIR and how to input keywords
 #    in ATDriverResults.xls and the folder\path to place ATDriverResults.xls
 # REMEMBER:ATDriverResults.xls should always be present in C:\KEDAFI.
 #
