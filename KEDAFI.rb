@@ -17,9 +17,6 @@
 # REMEMBER:ATDriverResults.xls should always be present in C:\KEDAFI.
 #
 # KEDAFI IS HOSTED ON GITHUB AND CAN ALWAYS BE OBTAINED FROM https://github.com/vijayMKH/KEDAFI
-# 
-# THIS PROGRAM IS DEDICATED TO MARCIA KAY HOGAN OF DAVENPORT,WA. IT WAS ONLY POSSIBLE DUE TO HER LOVE AND
-# SUPPORT.
 #
 #############################################################################################################
 # KEDAFI BEGIN
